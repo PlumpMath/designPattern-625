@@ -1,6 +1,6 @@
-package com.vuerk.design.duck.behavior.impl;
+package com.kevery.design.duck.behavior.impl;
 
-import com.vuerk.design.duck.behavior.FlyBehavior;
+import com.kevery.design.duck.behavior.FlyBehavior;
 
 /**
  * Created by kever

@@ -1,8 +1,8 @@
-package com.vuerk.design.duck;
+package com.kevery.design.duck;
 
-import com.vuerk.design.duck.behavior.FlyWithRocket;
-import com.vuerk.design.duck.behavior.impl.FlyWithWings;
-import com.vuerk.design.duck.behavior.impl.Quack;
+import com.kevery.design.duck.behavior.FlyWithRocket;
+import com.kevery.design.duck.behavior.impl.FlyWithWings;
+import com.kevery.design.duck.behavior.impl.Quack;
 
 /**
  * Created by kever

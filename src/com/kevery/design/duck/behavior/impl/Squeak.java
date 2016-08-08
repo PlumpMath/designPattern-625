@@ -1,6 +1,6 @@
-package com.vuerk.design.duck.behavior.impl;
+package com.kevery.design.duck.behavior.impl;
 
-import com.vuerk.design.duck.behavior.QuackBehavior;
+import com.kevery.design.duck.behavior.QuackBehavior;
 
 /**
  * Created by kever

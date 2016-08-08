@@ -1,4 +1,4 @@
-package com.vuerk.design.duck.behavior;
+package com.kevery.design.duck.behavior;
 
 /**
  * Created by kever
