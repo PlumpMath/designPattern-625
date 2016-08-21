@@ -1,4 +1,4 @@
-package com.kevery.design.decorate.decorator;
+package com.kevery.design.decorate.decorator.coffee;
 
 /**
  * Created by kever
@@ -13,6 +13,7 @@ public class StarBuzzCoffee {
         beverage1 = new Soy(beverage1);
         beverage1 = new Whip(beverage1);
         System.out.println(beverage1.getDescription()+"$"+beverage1.cost());
-
+        Soy soy = new Soy(new Whip(new Mocha(beverage)));
+        System.out.println(soy.getDescription() + "$" + soy.cost());
     }
 }

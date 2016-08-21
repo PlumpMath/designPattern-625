@@ -1,4 +1,4 @@
-package com.kevery.design.decorate.decorator;
+package com.kevery.design.decorate.decorator.coffee;
 
 /**
  * Created by kever
