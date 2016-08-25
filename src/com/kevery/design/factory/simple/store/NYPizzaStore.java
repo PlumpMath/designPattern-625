@@ -9,7 +9,6 @@ import com.kevery.design.factory.simple.pizza.Pizza;
  * 16/8/9.
  */
 public class NYPizzaStore extends PizzaStore {
-
     @Override
     Pizza createPizza(String type) {
         switch (type) {
